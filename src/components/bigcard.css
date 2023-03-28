@@ -1,0 +1,35 @@
+.bigcard{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 80px;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: #2e3035;
+}
+
+.binner{
+    background-color: #474a51;
+    width: 21%;
+    height: 50vh;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.titles h4{
+    text-align: center;
+    padding: 15px;
+    color: rgb(218, 201, 201);
+}
+
+
+
+.images img{
+    width: 100%;
+    height: 30vh;
+    
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
